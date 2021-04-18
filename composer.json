@@ -1,0 +1,16 @@
+{
+  "name": "resist/twigphpfunctions",
+  "description": "Small Twig extension that allows PHP functions in templates",
+  "homepage": "https://github.com/r3sist/TwigPhpFunctions",
+  "license": "MIT",
+  "type": "library",
+  "require": {
+    "php": "^8",
+	"twig/twig": "^3"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
