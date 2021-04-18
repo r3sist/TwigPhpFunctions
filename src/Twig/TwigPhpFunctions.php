@@ -1,4 +1,10 @@
 <?php declare(strict_types=1);
+/**
+ * TwigPhpFunctions: Small Twig extension that allows PHP functions in templates
+ * https://github.com/r3sist/TwigPhpFunctions
+ * 
+ * resist | https://resist.hu
+ */
 
 namespace resist\Twig;
 
